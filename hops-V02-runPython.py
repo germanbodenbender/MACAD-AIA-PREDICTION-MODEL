@@ -1,6 +1,7 @@
 #AIA-COMPUTER VISION SEMINAR
 #STUDENT: German Otto Bodenbender
-#Testing using Hops to automate the preiction process on this Pattern Model example 
+#Testing using Hops to automate the preiction process on this Pattern Model example by Gabriella Rossi
+#2021/05/15
 
 from typing import Literal
 from flask import Flask
